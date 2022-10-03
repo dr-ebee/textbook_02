@@ -24,4 +24,4 @@ You can click on this link to see those commits.
 
 If you accidentally commit multiple exercises all at once, please make a new file.
 In this file, draw a shape, then make a git commit saying that you made that shape.
-Do this until you've made a total of 5 commits.
+Do this until you've made a total of *at least* 5 commits.
